@@ -1,6 +1,6 @@
 ### Evaluation
 
-Clarity And Organization Of Content: This brief tutorial clearly guides the reader through using the Colorspace package in R. As I was creating the tutorial, I was selective with the content and careful of order - hoping to avoid overwhelming the reader with information overload. I also provided sufficient context to describe the package's purpose and convenience of deploying color palettes without being excessive with technical details. 
+Clarity And Organization: This brief tutorial clearly guides the reader through using the Colorspace package in R. As I was creating the tutorial, I was selective with the content and careful of order - hoping to avoid overwhelming the reader with information overload. I also provided sufficient context to describe the package's purpose and convenience of deploying color palettes without being excessive with technical details. 
 
 Accuracy and Correctness: The code in tutorial along with the narrative were written in a simplistic way. I tried to minimize the complexity and focus only on pertinent information needed to run the code seamlessly. The tutorial provides the correct methods of installing the package and employing it accurately. Everything should run smoothly!
 
